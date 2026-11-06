@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-최신 버전 0.2.2 — [Releases](https://github.com/parkrye/MultiProject_EasyDoDraw/releases)에서 받아 설치.
+최신 버전 0.2.3 — [Releases](https://github.com/parkrye/MultiProject_EasyDoDraw/releases)에서 받아 설치.
 
 | 파일 | 대상 |
 |---|---|
